@@ -1,0 +1,7 @@
+Integrantes - Grupo Akatsuki:
+Guilherme Melo - gdelmondes27@gmail.com
+Gustavo André - guga.player@hotmail.com
+Icaro Costa - icaro_cost@hotmail.com
+
+Asteroids:
+O jogo se trata de uma re-leitura do jogo classico do atari, Asteroids
